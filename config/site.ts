@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "La Morena Arts",
-  description: "Artist. First-Gen. CSU '23",
+  name: "Flair",
+  description: "Expertly designed goods for the workplace, home, and travel.",
   footer: [
     { name: "Home", href: "/" },
     { name: "About", href: "#" },
