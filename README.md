@@ -2,7 +2,7 @@
 
 - [Project Link](https://flair-ecommerce.vercel.app/)
 
-Welcome to Flair, an ecommerce app built using Next.js, TypeScript, and TailwindCSS. 
+An ecommerce app built using Next.js, TypeScript, and TailwindCSS. 
 
 - Users can add items to cart, sort and search products by different criteria, view items through custom image gallery, manage cart, and checkout through Stripe.
   
